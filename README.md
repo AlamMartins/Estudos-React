@@ -5,43 +5,43 @@ https://multimart-ecommerce.onrender.com
 
 ## 😎 Features
 
-- Beauty UI similar to ecommerce website
-- Fully responsive and mobile friendly
-- User can add items to cart
-- User can view details of an item
-- User can show total price in cart
-- In Item page user can add quantity of item to cart instead of click add more and more 
+- UI de beleza semelhante ao site de comércio eletrônico
+- Totalmente responsivo e compatível com dispositivos móveis
+- O usuário pode adicionar itens ao carrinho
+- O usuário pode visualizar detalhes de um item
+- O usuário pode mostrar o preço total no carrinho
+- Na página Item, o usuário pode adicionar quantidade de item ao carrinho em vez de clicar em adicionar mais e mais
 
-## 🚀 What technologies were used?
+## 🚀 Quais tecnologias foram utilizadas? 
 
 - react.js (create-react-app)
-- react-dom-router
+- router react-dom
 - react-bootstrap
-- state management using Context API
+- gerenciamento de estado usando Context API
 
-## How can you clone and tweak this project?
+## Como posso clonar o projeto e configurar para testar?
 
-From your command line, first clone this repo:
+Na sua linha de comando, primeiramente clone o projeto, instale as dependências e inicialize o projeto.
 
 ```
 # Clone this repository
-$ https://github.com/0mar-helal/multimart-react-ecommerce.git
+$ https://github.com/AlamMartins/Estudos-React.git
 
-# Go into the repository
+# Acessa a pasta do projeto
 $ cd multimart-react-ecommerce
 
-# Remove current origin repository
+# Remover o atual usuário do repositório 
 $ git remote remove origin
 
 ```
 
-Then you can install the dependencies using NPM:
+Você pode instalar a dependência usando NPM:
 
 ```
-# Install dependencies
+# Instalando a dependência
 $ npm install
 
-# Start development server
+# Inicializando o Projeto
 $ npm start
 ```
 👨‍💻 Happy coding!
